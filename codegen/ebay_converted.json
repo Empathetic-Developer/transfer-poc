@@ -1,0 +1,251 @@
+{
+  "name": "🏛️ Column (For Content Elements)",
+  "parentNode": {
+    "width": 218.33334350585938,
+    "height": 684,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "backgrounds": []
+  },
+  "image": null,
+  "parent": {
+    "id": "48:35210",
+    "type": "COMPONENT"
+  },
+  "type": "FRAME",
+  "id": "48:35219",
+  "inferredAutoLayout": {
+    "layoutMode": "VERTICAL",
+    "paddingLeft": 0,
+    "paddingRight": 0,
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "counterAxisSizingMode": "FIXED",
+    "primaryAxisSizingMode": "AUTO",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 1,
+    "itemSpacing": 8,
+    "layoutPositioning": "AUTO"
+  },
+  "styles": {},
+  "fills": [],
+  "children": [
+    {
+      "name": "📷 Image",
+      "parentNode": {
+        "width": 184,
+        "height": 220,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "backgrounds": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "imageTransform": [
+              [1, 0, 0],
+              [0, 1, 0]
+            ],
+            "scalingFactor": 1,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageHash": "84e92d437d5de89b4029d8fbcb9fc3c4487e6e43"
+          }
+        ]
+      },
+
+      "parent": {
+        "id": "48:35219",
+        "type": "FRAME"
+      },
+      "type": "FRAME",
+      "id": "48:35220",
+      "inferredAutoLayout": null,
+      "styles": {},
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "scalingFactor": 1,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageHash": "84e92d437d5de89b4029d8fbcb9fc3c4487e6e43"
+        }
+      ],
+      "children": 0
+    },
+    {
+      "name": "📷 Image",
+      "parentNode": {
+        "width": 184,
+        "height": 264,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "backgrounds": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "imageTransform": [
+              [1, 0, 0],
+              [0, 1, 0]
+            ],
+            "scalingFactor": 1,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageHash": "84e92d437d5de89b4029d8fbcb9fc3c4487e6e43"
+          }
+        ]
+      },
+
+      "parent": {
+        "id": "48:35219",
+        "type": "FRAME"
+      },
+      "type": "FRAME",
+      "id": "48:35221",
+      "inferredAutoLayout": null,
+      "styles": {},
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "scalingFactor": 1,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageHash": "84e92d437d5de89b4029d8fbcb9fc3c4487e6e43"
+        }
+      ],
+      "children": 0
+    },
+    {
+      "name": "📷 Image",
+      "parentNode": {
+        "width": 184,
+        "height": 184,
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "backgrounds": [
+          {
+            "type": "IMAGE",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "scaleMode": "FILL",
+            "imageTransform": [
+              [1, 0, 0],
+              [0, 1, 0]
+            ],
+            "scalingFactor": 1,
+            "rotation": 0,
+            "filters": {
+              "exposure": 0,
+              "contrast": 0,
+              "saturation": 0,
+              "temperature": 0,
+              "tint": 0,
+              "highlights": 0,
+              "shadows": 0
+            },
+            "imageHash": "84e92d437d5de89b4029d8fbcb9fc3c4487e6e43"
+          }
+        ]
+      },
+
+      "parent": {
+        "id": "48:35219",
+        "type": "FRAME"
+      },
+      "type": "FRAME",
+      "id": "48:35222",
+      "inferredAutoLayout": null,
+      "styles": {},
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "imageTransform": [
+            [1, 0, 0],
+            [0, 1, 0]
+          ],
+          "scalingFactor": 1,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageHash": "84e92d437d5de89b4029d8fbcb9fc3c4487e6e43"
+        }
+      ],
+      "children": 0
+    }
+  ]
+}

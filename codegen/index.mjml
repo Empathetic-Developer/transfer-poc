@@ -1,0 +1,156 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-preview></mj-preview>
+    <mj-style>
+      
+  u + .emailify .gs { background: #000; mix-blend-mode:screen; display: inline-block; padding: 0; margin: 0; }
+  u + .emailify .gd { background: #000; mix-blend-mode:difference; display: inline-block; padding: 0; margin: 0; }
+
+  p {
+    -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+  }
+
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none!important;
+  }
+  u + .emailify a {
+    color: inherit !important;
+    text-decoration: none!important;
+  }
+  #MessageViewBody a {
+    color: inherit !important;
+    text-decoration: none!important;
+  }
+  td.b .klaviyo-image-block { display: inline; vertical-align: middle; }
+  
+  @media only screen and (max-width:702px) {
+    .emailify { height:100% !important; margin:0 !important; padding:0 !important; width:100% !important; }
+    u + .emailify .glist { margin-left: 1em !important; }
+    td.ico.v > div.il > a.l.m, td.ico.v .mn-label { padding-right: 0!important; padding-bottom: 16px!important; }
+    td.x { padding-left: 0!important; padding-right: 0!important; }
+    .fwm img { max-width: 100%!important; height: auto!important; }
+    .aw img { width: auto!important; margin-left: auto!important; margin-right: auto!important; }
+    .awl img { width: auto!important; margin-right: auto!important; }
+    .awr img { width: auto!important; margin-left: auto!important; }
+    .ah img { height: auto!important; }
+    td.b.nw > table, td.b.nw a { width: auto!important; }
+    td.stk { border:0!important; }
+    td.u { height:auto!important; }
+    br.sb { display: none!important; }
+    .thd-1 .i-thumbnail { display: inline-block!important; height: auto!important; overflow: hidden!important; }
+    .hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+    .hm-1 { display: none!important; max-width: 0!important; max-height: 0!important; overflow: hidden!important; mso-hide: all!important; }
+    .ht-1 { display: table!important; height: auto!important; overflow: visible!important; }
+    .hr-1 { display: table-row!important; height: auto!important; overflow: visible!important; }
+    .hc-1 { display: table-cell!important; height: auto!important; overflow: visible!important; }
+    div.r.pr-16 > table > tbody > tr > td, div.r.pr-16 > div > table > tbody > tr > td { padding-right:16px!important }div.r.pl-16 > table > tbody > tr > td, div.r.pl-16 > div > table > tbody > tr > td { padding-left:16px!important }td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td > a { display: block!important; width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
+    td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td { width: 100%!important; padding-left: 0!important; padding-right: 0!important; }div.r.pt-0 > table > tbody > tr > td, div.r.pt-0 > div > table > tbody > tr > td { padding-top:0px!important }div.r.pr-0 > table > tbody > tr > td, div.r.pr-0 > div > table > tbody > tr > td { padding-right:0px!important }div.r.pb-0 > table > tbody > tr > td, div.r.pb-0 > div > table > tbody > tr > td { padding-bottom:0px!important }div.r.pl-0 > table > tbody > tr > td, div.r.pl-0 > div > table > tbody > tr > td { padding-left:0px!important }
+  
+  }
+  @media (prefers-color-scheme: light) and (max-width:702px) {
+    .ds-1.hd-1 { display: none!important; height: 0!important; overflow: hidden!important; }
+  }
+
+  @media (prefers-color-scheme: dark) and (max-width:702px) {
+    .ds-1.hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+  }
+    </mj-style>
+    <mj-html-attributes>
+      <mj-selector path="td.s">
+        <mj-html-attribute name="aria-hidden">
+          true
+        </mj-html-attribute>
+      </mj-selector>
+    </mj-html-attributes>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-breakpoint width="702px"></mj-breakpoint>
+    <mj-font href="https://fonts.googleapis.com/css?family=Inter:400,700" name="Inter"></mj-font>
+    <mj-style inline="inline">
+      body, .emailify { mso-line-height-rule: exactly; mso-hyphenate: none; } .hd-1, .thd-1 .i-thumbnail, .ht-1, .hr-1, .hc-1, .ds-1 { mso-hide: all; display: none; height: 0; overflow: hidden; } .hd-1 *, .ds-1 * { mso-hide: all; } sup, sub { line-height: 0; font-size: 75%; }
+    </mj-style>
+    <mj-raw>
+      
+      <meta name="color-scheme" content="light dark" /><meta name="supported-color-schemes" content="light dark" />
+      
+      <!--[if gte mso 9]>
+        <style>
+          a:link, span.MsoHyperlink {
+            mso-style-priority: 99;
+            color: inherit;
+            text-decoration: none;
+          }
+          a:visited, span.MsoHyperlinkFollowed {
+            mso-style-priority: 99;
+            color: inherit;
+            text-decoration: none;
+          }
+          li {
+            text-indent: -1em;
+          }
+          table, td, p, div, span, ul, ol, li, a {
+            mso-hyphenate: none;
+          }
+          sup, sub { font-size: 100% !important; }
+        </style>
+      <![endif]-->
+      
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#e5e5e5" css-class="bg " width="703px">
+    <mj-section background-color="#fffffe" border="none" css-class="r  pr-16 pl-16 " padding="20px 16px 20px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="671px">
+        <mj-text align="center" color="black" css-class="x  m" font-family="Arial, sans-serif" font-size="13px" line-height="1;" padding-bottom="8px" padding="0px">
+          <p style="Margin:0;text-align:center;mso-line-height-alt:24px;mso-ansi-font-size:16px;"><span style="font-size:16px;font-family:'Inter', Arial, sans-serif;font-weight:400;color:#777777;line-height:150%;mso-line-height-alt:24px;mso-ansi-font-size:16px;">The finest sushi in Japan, the way it’s meant to be eaten, is unadorned, like a flower. It’s whole, unadorned, it’s just good sushi, my friend.</span></p>
+        </mj-text>
+        <mj-spacer css-class="s  m" height="4px" padding-bottom="8px" padding="0"></mj-spacer>
+        <mj-button align="center" background-color="#000000" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="'Inter', Arial, sans-serif" href="#insertUrlLink" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="122px">
+          <span style="font-size:14px;font-family:'Inter', Arial, sans-serif;font-weight:700;color:#ffffff;line-height:121%;mso-line-height-alt:18px;mso-ansi-font-size:14px;">Learn More</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border="none" css-class="r  pr-16 pl-16 " padding="32px 32px 32px 32px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="544px">
+        <mj-text align="center" color="black" css-class="x  " font-family="Arial, sans-serif" font-size="13px" line-height="1;" padding="0px">
+          <p style="Margin:0;text-align:center;mso-line-height-alt:32px;mso-ansi-font-size:28px;"><span style="font-size:28px;font-family:'Inter', Arial, sans-serif;font-weight:700;color:#000000;line-height:114%;mso-line-height-alt:32px;mso-ansi-font-size:28px;">Experience our sushi bar</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border="none" css-class="r  pt-0 pr-0 pb-0 pl-0 " padding="0" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="703px">
+        <mj-image align="center" alt="" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" padding="0" src="img/b27de6e2bfaaf69b16f1e0b2bc1b5fe0.jpg" title="" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border="none" css-class="r  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
+      <mj-group direction="ltr" width="100%">
+        <mj-column background-color="transparent" border="none" css-class="m c  " vertical-align="middle" width="32.4888%">
+          <mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="true" padding-bottom="8px" padding="0" src="img/ad1295ee8f5c7c1a77cea487d1a1e89f.jpg" title="" width="184px"></mj-image>
+          <mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="true" padding-bottom="8px" padding="0" src="img/22c02c100663c84392e14ec219f96a8d.jpg" title="" width="184px"></mj-image>
+          <mj-image align="center" alt="" border-radius="0" css-class="i  " fluid-on-mobile="true" padding-bottom="0" padding="0" src="img/33c6ef030d851fede3f9733f5a2a60ab.jpg" title="" width="184px"></mj-image>
+        </mj-column>
+        <mj-column css-class="g" padding="0" width="1.1923%">
+
+        </mj-column>
+        <mj-column background-color="transparent" border="none" css-class="m c  " vertical-align="middle" width="32.4888%">
+          <mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="true" padding-bottom="8px" padding="0" src="img/1171777d9afe9c1f179af930786daa27.jpg" title="" width="184px"></mj-image>
+          <mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="true" padding-bottom="8px" padding="0" src="img/6b7b867427429e239ceb3b3badce99b9.jpg" title="" width="184px"></mj-image>
+          <mj-image align="center" alt="" border-radius="0" css-class="i  " fluid-on-mobile="true" padding-bottom="0" padding="0" src="img/0799df98b460ed953ee95ceeca28f791.jpg" title="" width="184px"></mj-image>
+        </mj-column>
+        <mj-column css-class="g" padding="0" width="1.1923%">
+
+        </mj-column>
+        <mj-column background-color="transparent" border="none" css-class="c  " vertical-align="middle" width="32.4888%">
+          <mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="true" padding-bottom="8px" padding="0" src="img/43c618eda244f80b073bb11711145492.jpg" title="" width="184px"></mj-image>
+          <mj-image align="center" alt="" border-radius="0" css-class="i  m" fluid-on-mobile="true" padding-bottom="8px" padding="0" src="img/45ed6f315fa48063b28284cc9a1d36a5.jpg" title="" width="184px"></mj-image>
+          <mj-image align="center" alt="" border-radius="0" css-class="i  " fluid-on-mobile="true" padding-bottom="0" padding="0" src="img/a14aad40a45c8ec2363bef1b3f8dc673.jpg" title="" width="184px"></mj-image>
+        </mj-column>
+        <mj-column padding="0" width="0.1490%">
+
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,53 @@
+{
+  "name": "codegen-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build:ui && npm run build:main",
+    "build:main": "esbuild plugin-src/code.js --bundle --outfile=dist/code.js",
+    "build:ui": "npx vite build --minify esbuild --emptyOutDir=false --target=ES6",
+    "build:watch": "concurrently -n widget,iframe \"npm run build:main -- --watch\" \"npm run build:ui -- --watch\"",
+    "dev": "concurrently -n build,vite 'npm:build:watch' 'vite'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@create-figma-plugin/ui": "^2.1.3",
+    "@create-figma-plugin/utilities": "^2.1.3",
+    "@figma-plugin/helpers": "^0.15.2",
+    "@figma/plugin-typings": "^1.62.0",
+    "concurrently": "^8.0.1",
+    "esbuild": "^0.17.14",
+    "file-saver": "^2.0.5",
+    "json2html": "^0.0.8",
+    "jsonpath-plus": "^9.0.0",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0",
+    "lodash": "^4.17.21",
+    "preact": "^10",
+    "prettier": "^2.8.7",
+    "vite": "^4.2.1",
+    "vite-plugin-singlefile": "^0.13.3"
+  },
+  "devDependencies": {
+    "@create-figma-plugin/build": "^2.1.3",
+    "@create-figma-plugin/tsconfig": "^2.1.3",
+    "@figma/plugin-typings": "1.50.0",
+    "@types/node": "^18.7.18",
+    "@types/prismjs": "^1.26.0",
+    "@types/react": "^18",
+    "react": "^18",
+    "ts-node": "^10.9.1",
+    "typescript": "^4"
+  },
+  "figma-plugin": {
+    "editorType": [
+      "figma"
+    ],
+    "id": "figma-to-json",
+    "name": "Figma To Json",
+    "main": "src/main.ts",
+    "ui": "src/ui.tsx"
+  }
+}
